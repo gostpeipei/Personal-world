@@ -122,3 +122,9 @@ input{
 .dn{
 	display: none;
 }
+
+/* 版心 */
+.main{
+	width: 980px;
+	margin: 0 auto;
+}
